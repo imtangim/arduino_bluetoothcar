@@ -13,5 +13,5 @@ This project is a **Bluetooth-controlled car** using an **Arduino and Flutter ap
 
 ## Live Preview
 
-Complete instruction [here](https://<your-github-username>.github.io/<repo-name>/).  
+Complete instruction [here](https://imtangim.github.io/arduino_bluetoothcar/).  
 
